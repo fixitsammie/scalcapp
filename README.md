@@ -1,4 +1,6 @@
 # scalc
+Built based on a vuejs tutorial I watched.
+First project using vuejs.
 
 ## Project setup
 ```
