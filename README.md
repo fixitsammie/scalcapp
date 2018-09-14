@@ -1,6 +1,7 @@
 # scalc
 Built based on a vuejs tutorial I watched.
 First project using vuejs.
+Running at https://fixitsammie.github.io/scalcapp/
 
 ## Project setup
 ```
